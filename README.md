@@ -4,7 +4,7 @@
 
 `packet-tracer-lab` 是一个面向 Cisco Packet Tracer 网络实验的 Agent Skill。它让 Codex 或 Claude Code 根据实验文档规划拓扑、连接设备、配置交换机/路由器/主机、验证通信，并在模拟模式中观察单播、广播、MAC 学习、ARP 和冲突等过程。
 
-Skill 结合 Packet Tracer MCP、无障碍树和截图操作完成图形桌面中的实验，能够排查配置与连接问题，保存实验截图、Packet Tracer 原生工程和报告。技能文件位于 `packet-tracer-lab/`。
+Skill 结合 Packet Tracer MCP、无障碍树和截图操作完成图形桌面中的实验，能够排查配置与连接问题，保存实验截图、Packet Tracer 原生工程和报告。技能文件位于 `packet-tracer-lab/`。s
 
 ## 使用前置
 
@@ -23,7 +23,7 @@ Skill 结合 Packet Tracer MCP、无障碍树和截图操作完成图形桌面�
 
 ## 实际使用的 Linux 环境和软件
 
-实际环境为 **魔搭（ModelScope）Notebook，Ubuntu 22.04，XFCE 图形桌面**。
+实际环境为 **Ubuntu 22.04，XFCE 图形桌面**。
 
 | 软件或组件 | 实际环境及用途 |
 |---|---|
