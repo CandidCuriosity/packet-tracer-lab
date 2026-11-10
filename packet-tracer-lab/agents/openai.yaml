@@ -1,0 +1,7 @@
+interface:
+  display_name: "Packet Tracer Lab"
+  short_description: "Build and verify Packet Tracer labs on ModelScope"
+  default_prompt: "Use $packet-tracer-lab to build and verify lab 4 (static routing) in Packet Tracer, then list the evidence screenshots."
+
+policy:
+  allow_implicit_invocation: true
